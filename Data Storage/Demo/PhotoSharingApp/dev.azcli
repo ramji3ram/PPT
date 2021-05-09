@@ -1,0 +1,5 @@
+az storage account create \
+  --resource-group dev \
+  --location eastus \
+  --sku Standard_LRS \
+  --name dev123456ö
